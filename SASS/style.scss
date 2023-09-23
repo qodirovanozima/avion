@@ -274,3 +274,44 @@ html{
     font-size: 15px;
 
 }
+.container2{
+    position: relative;
+    background: rgb(195, 191, 191);
+    height: 450px;
+    margin-top: 5rem;
+    text-align: center;
+}
+#div-box{
+    position:relative;
+    width: 900px;
+    height: 364px;
+    background: #fff;
+}
+.container2 h1{
+    font-size: 5rem;
+    padding-top: 9rem;
+    color: #2A254B;
+    line-height: 50px;
+}
+.container2 p{
+    font-size: 2rem;
+    padding-top: 5rem;
+    line-height:24px ;
+    color: #2A254B;
+}
+.sign{
+    width: 118px;
+    height: 56px;
+    background: rgb(42, 37, 75);
+    border: none;
+    color: #fff;
+    margin-left: -5px;
+    margin-top: 12rem;
+}
+input{
+    width: 354px;
+    height: 56px;
+    align-items: center;
+    text-align: center;
+    border: none;
+}
