@@ -170,3 +170,49 @@ html{
     color: #2A254B;
 
 }
+.list-content{
+    position: relative;
+    display:flex;
+    justify-content: center;
+}
+.list-content .list-box{
+    position: relative;
+    padding:0;
+    padding-left: 25px;
+    margin-left: -16px;
+    margin-top: 2rem;
+
+    
+}
+.listing h2{
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    color: #2A254B;
+    margin-left: 75px;
+}
+.listing img{
+    width: 295px;
+    height: 375px;
+}
+.listing h3{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    line-height: 28px;
+    color: #2A254B;
+}
+.listing p{
+    line-height: 27px;
+    color: #2A254B;
+}
+.view{
+    width: 170px;
+    height: 56px;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 7rem;
+    border: none;
+    color: #2A254B;
+    font-size: 15px;
+
+}
